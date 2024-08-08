@@ -15,4 +15,9 @@ To get a local copy of this project up and running, follow these steps:
 
 ### Installation
 
+
 **Clone the repository:**
+
+### Counter screenshot
+
+![Screenshot of website](https://github.com/user-attachments/assets/80a415c0-57a2-4769-848b-c8eed0dd9aba)
